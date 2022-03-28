@@ -1,0 +1,18 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/checkout": "pages/checkout.js",
+  "/complete-checkout": "pages/complete-checkout.html",
+  "/detail/[id]": "pages/detail/[id].js",
+  "/": "pages/index.html",
+  "/member/edit-profile": "pages/member/edit-profile.html",
+  "/member": "pages/member.js",
+  "/member/transactions/[idTrx]": "pages/member/transactions/[idTrx].js",
+  "/member/transactions": "pages/member/transactions.js",
+  "/sign-in": "pages/sign-in.html",
+  "/sign-up-photo": "pages/sign-up-photo.html",
+  "/sign-up-success": "pages/sign-up-success.html",
+  "/sign-up": "pages/sign-up.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
